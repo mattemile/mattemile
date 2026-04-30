@@ -20,10 +20,8 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-
 ## 📫 How to reach me
-Connect with me on <a href="https://www.linkedin.com/in/matteo-mileva-05437033b" rel="nofollow">LinkedIn</a> 👨🏻‍💻
-##
-Watch my <a href="https://react-portfolio-master-sand.vercel.app" rel="nofollow">Profile</a> 📹
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/matteo-mileva-05437033b))
+[![GitHub](https://img.shields.io/badge/Portfoglio-171515?style=for-the-badge&logoColor=white)]([https://github.com/YOUR_USERNAME](https://react-portfolio-master-sand.vercel.app))
 
