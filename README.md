@@ -22,6 +22,6 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ---
 
 ## 📫 How to reach me
+Connect with me on <a href="https://www.linkedin.com/in/matteo-mileva-05437033b" rel="nofollow">LinkedIn</a> 👨🏻‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
