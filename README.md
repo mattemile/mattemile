@@ -24,8 +24,4 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
----
-
-*"First, solve the problem. Then, write the code."* — John Johnson
