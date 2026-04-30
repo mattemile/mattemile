@@ -11,6 +11,7 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-3776AB?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 🧰 Other Tools
 
