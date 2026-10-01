@@ -23,6 +23,6 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ---
 ## 📫 How to reach me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-mileva-05437033b)
-![Portfoglio](https://img.shields.io/badge/Portfoglio-171515?style=for-the-badge&logoColor=white&link=https://react-portfolio-master-sand.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-mileva-05437033b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logoColor=white)](https://react-portfolio-master-sand.vercel.app)
 
